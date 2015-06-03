@@ -9,7 +9,7 @@ showing you how to access it with the Spring `RestTemplate` API.
 
 ## Building
 
-You need Java (1.7 or better) and Maven (3.0.5 or better):
+You need Java (1.8 or better) and Maven (3.0.5 or better):
 
 ```
 $ mvn clean install
