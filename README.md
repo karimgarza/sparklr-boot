@@ -4,8 +4,7 @@ the two roles across two applications if you preferred.) It uses
 [Spring Boot](https://github.com/spring-projects/spring-boot) to
 provide an embedded servlet container and for defaulting a load of
 configuration, so you should be up and running with it very
-quickly. There are integration tests proving that it works and also
-showing you how to access it with the Spring `RestTemplate` API.
+quickly.
 
 ## Building
 
